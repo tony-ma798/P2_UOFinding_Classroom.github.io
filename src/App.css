@@ -1,0 +1,16 @@
+.App {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.main {
+  flex: 1;
+  overflow: auto;
+  background: rgba(0, 0, 0, 0.05);
+}
+
+.page {
+  margin-top: 180px;
+}
